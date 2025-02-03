@@ -139,4 +139,4 @@ It does not create the window on its own, so we use [glfw](https://github.com/gl
         glfwTerminate();
     }
    ```
-7. Run the program. We have now created the window with minimak effort.
+7. Run the program. We have now created the window with minimal effort.
